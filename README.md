@@ -1,13 +1,13 @@
 ### Inside the server directory
 
-cd server
-yarn install
-yarn prisma deploy
-yarn start
+cd server<br />
+yarn install<br />
+yarn prisma deploy<br />
+yarn start<br />
 
 ### Inside the project directory (new console)
 
-yarn install
-yarn start
+yarn install<br />
+yarn start<br />
 
 ### Enjoy !
